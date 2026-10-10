@@ -65,9 +65,8 @@ One real-world backend project every 10 days, built in the open with daily commi
 
 | Project | Description | Stack |
 |---|---|---|
-| [**realtime-notif-service**](https://github.com/Nguyenngoctruong274/realtime-notif-service) | Real-time notifications delivered over WebSocket, with Kafka as the event backbone | Go · Kafka · WebSocket |
 | [**cinema-seating-reservation**](https://github.com/Nguyenngoctruong274/cinema-seating-reservation) | REST API for cinema layouts and seat reservations that enforces social-distancing rules | Go · Gin |
-| [**Two-factor-authentication**](https://github.com/Nguyenngoctruong274/Two-factor-authentication) | Authentication service with JWT, account management and server-rendered login flows | Go · Gin · MongoDB |
+| [**jwt-auth (Two-factor-authentication)**](https://github.com/Nguyenngoctruong274/Two-factor-authentication) | Centralized JWT auth: login service issues tokens, a resource service checks revocation on every request | Go · Gin · MongoDB |
 
 ### 📊 GitHub stats
 
