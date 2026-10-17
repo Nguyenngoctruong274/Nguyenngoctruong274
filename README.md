@@ -58,13 +58,14 @@ One real-world backend project every 10 days, built in the open with daily commi
 
 | # | Project | What it shows | Status |
 |---|---|---|---|
-| 01 | [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet: row locking, idempotency keys, transactional outbox | 🟡 In progress |
-| 02 | _coming next_ | | ⚪ Planned |
+| 01 | [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet: ordered row locks, idempotency, transactional outbox, signed webhooks, Prometheus metrics, end-to-end tests | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ledger/releases/tag/v1.0.0) |
+| 02 | go-ratelimiter | Distributed rate limiter: Redis token bucket / sliding window, HTTP & gRPC middleware | ⚪ Next |
 
 ### 📦 Featured work
 
 | Project | Description | Stack |
 |---|---|---|
+| [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet service: no double charges, no deadlocks, no lost events; tested end to end | Go · PostgreSQL · Prometheus · Docker |
 | [**cinema-seating-reservation**](https://github.com/Nguyenngoctruong274/cinema-seating-reservation) | REST API for cinema layouts and seat reservations that enforces social-distancing rules | Go · Gin |
 | [**Two-factor-authentication**](https://github.com/Nguyenngoctruong274/Two-factor-authentication) | Centralized JWT auth: login service issues tokens, a resource service checks revocation on every request | Go · Gin · MongoDB |
 
