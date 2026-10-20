@@ -59,7 +59,7 @@ One real-world backend project every 10 days, built in the open with daily commi
 | # | Project | What it shows | Status |
 |---|---|---|---|
 | 01 | [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet: ordered row locks, idempotency, transactional outbox, signed webhooks, Prometheus metrics, end-to-end tests | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ledger/releases/tag/v1.0.0) |
-| 02 | go-ratelimiter | Distributed rate limiter: Redis token bucket / sliding window, HTTP & gRPC middleware | ⚪ Next |
+| 02 | [**go-ratelimiter**](https://github.com/Nguyenngoctruong274/go-ratelimiter) | Distributed rate limiter: token bucket, sliding window and GCRA as atomic Redis Lua scripts, HTTP middleware, fail-open/closed | 🟡 Day 1/10 |
 
 ### 📦 Featured work
 
