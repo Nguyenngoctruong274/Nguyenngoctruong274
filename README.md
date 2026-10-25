@@ -59,13 +59,14 @@ One real-world backend project every 10 days, built in the open with daily commi
 | # | Project | What it shows | Status |
 |---|---|---|---|
 | 01 | [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet: ordered row locks, idempotency, transactional outbox, signed webhooks, Prometheus metrics, end-to-end tests | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ledger/releases/tag/v1.0.0) |
-| 02 | [**go-ratelimiter**](https://github.com/Nguyenngoctruong274/go-ratelimiter) | Distributed rate limiter: token bucket, sliding window and GCRA as atomic Redis Lua scripts, HTTP middleware, fail-open/closed | 🟡 Day 1/10 |
+| 02 | [**go-ratelimiter**](https://github.com/Nguyenngoctruong274/go-ratelimiter) | Distributed rate limiter: token bucket, sliding window and GCRA as atomic Redis Lua scripts, HTTP middleware, policies with hot reload, circuit breaker with local fallback, pipelining, Prometheus metrics | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ratelimiter/releases/tag/v1.0.0) |
 
 ### 📦 Featured work
 
 | Project | Description | Stack |
 |---|---|---|
 | [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet service: no double charges, no deadlocks, no lost events; tested end to end | Go · PostgreSQL · Prometheus · Docker |
+| [**go-ratelimiter**](https://github.com/Nguyenngoctruong274/go-ratelimiter) | Distributed rate limiter: one limit across every instance through Redis Lua scripts; library, middleware or service; 96k checks/s with pipelining | Go · Redis · Prometheus · Docker |
 | [**cinema-seating-reservation**](https://github.com/Nguyenngoctruong274/cinema-seating-reservation) | REST API for cinema layouts and seat reservations that enforces social-distancing rules | Go · Gin |
 | [**Two-factor-authentication**](https://github.com/Nguyenngoctruong274/Two-factor-authentication) | Centralized JWT auth: login service issues tokens, a resource service checks revocation on every request | Go · Gin · MongoDB |
 
