@@ -22,10 +22,6 @@
 ---
 
 ### 👨‍💻 About me
-
-i'm a Software Engineer
-[LinkedIn](https://www.linkedin.com/in/gnourt274/).
-
 ```go
 type Engineer struct {
     Name     string
