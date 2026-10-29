@@ -11,11 +11,28 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Nguyenngoctruong274&color=00ADD8&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Nguyenngoctruong274?style=flat-square&color=00ADD8&label=FOLLOWERS)
 
+<br/>
+
+<a href="https://www.linkedin.com/in/gnourt274/"><img src="https://img.shields.io/badge/LinkedIn-gnourt274-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Nguyenngoctruong274?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.buymeacoffee.com/nguyenngoctruong"><img src="https://img.shields.io/badge/Buy_me_a_coffee-☕-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+
 </div>
 
 ---
 
 ### 👨‍💻 About me
+
+Backend engineer from Vietnam who likes the unglamorous parts of a system:
+money that must add up, jobs that must run exactly once, limits that must
+hold across every instance. I build in Go on PostgreSQL and Redis, and I
+ship each project with the tests that prove its guarantees, a benchmark
+that shows where the cost is, and a README that explains the trade-offs.
+
+Right now I am building one production-style project every 10 days, in
+the open, one commit a day. Open to backend roles and interesting
+collaborations: reach me on
+[LinkedIn](https://www.linkedin.com/in/gnourt274/).
 
 ```go
 type Engineer struct {
@@ -91,5 +108,16 @@ One real-world backend project every 10 days, built in the open with daily commi
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nguyenngoctruong274/Nguyenngoctruong274/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Nguyenngoctruong274/Nguyenngoctruong274/output/github-snake.svg" />
 </picture>
+
+### ☕ Support
+
+If one of these projects saved you a debugging night, a coffee keeps the
+next one going.
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/nguyenngoctruong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=nguyenngoctruong&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" /></a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
