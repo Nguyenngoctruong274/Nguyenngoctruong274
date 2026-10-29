@@ -23,15 +23,7 @@
 
 ### 👨‍💻 About me
 
-Backend engineer from Vietnam who likes the unglamorous parts of a system:
-money that must add up, jobs that must run exactly once, limits that must
-hold across every instance. I build in Go on PostgreSQL and Redis, and I
-ship each project with the tests that prove its guarantees, a benchmark
-that shows where the cost is, and a README that explains the trade-offs.
-
-Right now I am building one production-style project every 10 days, in
-the open, one commit a day. Open to backend roles and interesting
-collaborations: reach me on
+i'm a Software Engineer
 [LinkedIn](https://www.linkedin.com/in/gnourt274/).
 
 ```go
