@@ -114,10 +114,4 @@ One real-world backend project every 10 days, built in the open with daily commi
 If one of these projects saved you a debugging night, a coffee keeps the
 next one going.
 
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/nguyenngoctruong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=nguyenngoctruong&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" /></a>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
