@@ -60,7 +60,8 @@ One real-world backend project every 10 days, built in the open with daily commi
 |---|---|---|---|
 | 01 | [**go-ledger**](https://github.com/Nguyenngoctruong274/go-ledger) | Double-entry wallet: ordered row locks, idempotency, transactional outbox, signed webhooks, Prometheus metrics, end-to-end tests | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ledger/releases/tag/v1.0.0) |
 | 02 | [**go-ratelimiter**](https://github.com/Nguyenngoctruong274/go-ratelimiter) | Distributed rate limiter: token bucket, sliding window and GCRA as atomic Redis Lua scripts, HTTP middleware, policies with hot reload, circuit breaker with local fallback, pipelining, Prometheus metrics | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ratelimiter/releases/tag/v1.0.0) |
-| 03 | [**go-jobqueue**](https://github.com/Nguyenngoctruong274/go-jobqueue) | Background job queue on PostgreSQL: `SKIP LOCKED` claims with leases, retries with backoff and jitter, dead-letter queue, worker pools | 🟡 Day 1/10 |
+| 03 | [**go-jobqueue**](https://github.com/Nguyenngoctruong274/go-jobqueue) | Background job queue on PostgreSQL: `SKIP LOCKED` claims with leases, retries with backoff and jitter, dead-letter queue, worker pools | 🟡 Day 7/10 |
+| 04 | [**go-partner-export**](https://github.com/Nguyenngoctruong274/go-partner-export) | Daily partner file export: report day in a time zone, pipe-delimited CSV, archive to GCS with V4 signed URLs, SFTP delivery with pinned host keys and atomic upload, replayable runs | 🟡 Day 1/10 |
 
 ### 📦 Featured work
 
