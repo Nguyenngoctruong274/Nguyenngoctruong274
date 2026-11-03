@@ -67,6 +67,7 @@ One real-world backend project every 10 days, built in the open with daily commi
 | 02 | [**go-ratelimiter**](https://github.com/Nguyenngoctruong274/go-ratelimiter) | Distributed rate limiter: token bucket, sliding window and GCRA as atomic Redis Lua scripts, HTTP middleware, policies with hot reload, circuit breaker with local fallback, pipelining, Prometheus metrics | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-ratelimiter/releases/tag/v1.0.0) |
 | 03 | [**go-jobqueue**](https://github.com/Nguyenngoctruong274/go-jobqueue) | Background job queue on PostgreSQL: `SKIP LOCKED` claims with leases and fencing tokens, retries with backoff and jitter, dead-letter queue, reaper, worker pool, transactional enqueue, `LISTEN/NOTIFY`, metrics and alerts | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-jobqueue/releases/tag/v1.0.0) |
 | 04 | [**go-partner-export**](https://github.com/Nguyenngoctruong274/go-partner-export) | Daily partner file export: report day in a time zone, pipe-delimited CSV, archive to GCS with locally computed V4 signed URLs, SFTP delivery with pinned host keys and atomic upload, replayable runs, Prometheus metrics and alerts | ✅ [v1.0.0](https://github.com/Nguyenngoctruong274/go-partner-export/releases/tag/v1.0.0) |
+| 05 | [**go-webhook-gateway**](https://github.com/Nguyenngoctruong274/go-webhook-gateway) | Reliable webhook delivery: HMAC signing with secret rotation, fan-out on PostgreSQL, retries with backoff, per-endpoint circuit breaker, SSRF protection, delivery history and replay | 🟡 Day 1/10 |
 
 ### 📦 Featured work
 
